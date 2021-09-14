@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>David's Cool Website</title>
+</head>
+<body>
+    <h1>A Few of My Favorite Foods</h1>
+    <ul>
+        <li>Ribs</li>
+        <li>Pizza</li>
+        <li>Spaghetti</li>
+    </ul>
+    <h2>Here is a photo of me a couple of years ago</h2>
+    <img src="Images/Old Photo of me blue shirt.jpg"/>
+    <p>Why do I look so mean here? I think I'd just woken up!</p>
+</body>
+</head>
+</html>
